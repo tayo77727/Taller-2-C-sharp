@@ -1,0 +1,6 @@
+C:\Users\oldta\Desktop\Taller 2 C#\Ejercicio6\obj\Debug\Ejercicio6.csprojResolveAssemblyReference.cache
+C:\Users\oldta\Desktop\Taller 2 C#\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+C:\Users\oldta\Desktop\Taller 2 C#\Ejercicio6\bin\Debug\Ejercicio6.exe
+C:\Users\oldta\Desktop\Taller 2 C#\Ejercicio6\bin\Debug\Ejercicio6.pdb
+C:\Users\oldta\Desktop\Taller 2 C#\Ejercicio6\obj\Debug\Ejercicio6.exe
+C:\Users\oldta\Desktop\Taller 2 C#\Ejercicio6\obj\Debug\Ejercicio6.pdb
