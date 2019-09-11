@@ -1,0 +1,6 @@
+C:\Users\oldta\Documents\SharpDevelop Projects\Taller 2 C#\Ejercicio8\obj\Debug\Ejercicio8.csprojResolveAssemblyReference.cache
+C:\Users\oldta\Documents\SharpDevelop Projects\Taller 2 C#\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\oldta\Documents\SharpDevelop Projects\Taller 2 C#\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\oldta\Documents\SharpDevelop Projects\Taller 2 C#\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\oldta\Documents\SharpDevelop Projects\Taller 2 C#\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\oldta\Documents\SharpDevelop Projects\Taller 2 C#\Ejercicio8\obj\Debug\Ejercicio8.pdb
